@@ -51,10 +51,10 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | 📅 **[AttendEasy](https://github.com/jpriyanshi121-cyber/AttendEasy)** | Full-stack attendance tracker helping students make smarter decisions about classes | React • TypeScript • Tailwind • Node.js • Express • Prisma • MongoDB |
-| 🚀 **[Pathforge](https://github.com/shreyadw24-cloud/Pathforge)** | AI-powered career path advisor with personalized recommendations & comparisons — built during a Gen-AI internship | React • Express • MongoDB • AI Service |
+| 🚀 **[Pathforge](https://github.com/shreyadw24-cloud/Pathforge)** | AI-powered career path advisor with personalized recommendations, history & side-by-side comparisons — built during my Full-Stack Development with Gen-AI internship | React • Express • MongoDB • AI Service |
 | 🌿 **[EcoVibe](https://github.com/jpriyanshi121-cyber/ecovibe)** | Sustainable e-commerce platform for eco-friendly & upcycled products | React • TypeScript • Vite • Tailwind • Node.js • Express • MongoDB |
 | 🕵️‍♀️ **[The Bureau of Digital Investigations](https://github.com/tiyasingh-git/digital_detective)** | Gamified media literacy app for UNESCO MIL Hackathon 2026 — teaches misinformation detection through investigation cases | Android Studio • Kotlin • Figma • Bravo Studio |
-| 💰 **[XpenseTrack](https://github.com/shriyamohann14/XpenseTrack)** | Student-focused expense tracking app | Web Dev • GitHub • Figma |
+| 💰 **[XpenseTrack](https://github.com/shriyamohann14/XpenseTrack)** | Student-focused expense tracking application with expense management and budgeting workflows | Web Dev • GitHub • Figma |
 | 📊 **[XpenseOps](https://github.com/shriyamohann14/XpenseOps)** | Android expense management app for organizational budgeting | Android Studio • Kotlin |
 
 ---
