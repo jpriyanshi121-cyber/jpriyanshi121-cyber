@@ -3,8 +3,10 @@
 <h3 align="center">CSE Student @ IGDTUW | Full-Stack • AI/ML • Gen-AI Explorer</h3>
 
 <p align="center">
-🚀 Building projects, competing in hackathons, and learning as I go
+🚀 Building projects, exploring new technologies, and learning by doing.
+  I enjoy turning ideas into practical projects and exploring how AI can make them better.
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshi-jain-003550367?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
