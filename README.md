@@ -77,7 +77,7 @@ Full-Stack Development • AI/ML & Gen-AI • Open Source • Problem Solving
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpriyanshi121-cyber&show_icons=true&theme=default" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=jpriyanshi121-cyber&show_icons=true&theme=default" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpriyanshi121-cyber" height="165">
 </p>
 
